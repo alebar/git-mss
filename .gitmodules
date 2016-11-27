@@ -1,0 +1,16 @@
+[submodule "bar"]
+	path = bar
+	url = https://github.com/alebar/git-bar
+	branch = dev
+[submodule "foo"]
+	path = foo
+	url = https://github.com/alebar/git-foo
+	branch = dev
+[submodule "parent"]
+	path = parent
+	url = https://github.com/alebar/git-mss-parent
+	branch = dev
+[submodule "libs"]
+	path = libs
+	url = https://github.com/alebar/git-libs
+	branch = dev
